@@ -1,0 +1,1 @@
+click "Code" then download ZIP, then run installer.bat so more files come up then run the main.
